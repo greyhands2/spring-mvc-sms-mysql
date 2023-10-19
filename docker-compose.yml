@@ -6,9 +6,9 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: Level5acess411
-      MYSQL_DATABASE: student-management
-      MYSQL_USER: starq1
-      MYSQL_PASSWORD: test1234
+      MYSQL_ROOT_PASSWORD: XXXXXXXXXXX
+      MYSQL_DATABASE: XXXXXXXXXX
+      MYSQL_USER: XXXXXXXX
+      MYSQL_PASSWORD: XXXXXXXX
     ports:
       - "3307:3306"
